@@ -50,7 +50,7 @@ MainActivity extends AppCompatActivity {
     ProgressBar speed_progress_bar,rpm_progress_bar,intake_air_progress_bar,cooling_water_progress_bar,inspiration_temperature_progress_bar;
     public static String saveStorage = ""; //저장된 파일 경로
 
-    // 로그 파일 저장 메소드 변수
+    // 로그 파일 저장 메소드 변수asdsadsa
     File storageDir;
     String textFileName, nowTime_day;
     BufferedWriter buf;
