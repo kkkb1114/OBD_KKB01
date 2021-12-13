@@ -1,0 +1,2 @@
+rootProject.name = "OBD_KKB01"
+include ':app'
